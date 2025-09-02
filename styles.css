@@ -3,6 +3,9 @@
 
 :root {
     --laranja-claro: #FF862A;
+    --alto-constrate-alto:#000000;
+    --alto-constraste-texto:#ffffff;
+    --alto-constrate-link:#ffd700;
 }
 
 body {
@@ -11,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #f7f4f4;
 }
 
 
