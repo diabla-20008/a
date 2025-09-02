@@ -168,3 +168,15 @@ z-index: 1000;
 .apresenta-lista{
 display: none;
 }
+
+.alto-contraste{
+   background-color: var(--alto-constrate-alto);
+   color:var(--alto-constraste-texto);
+   
+
+}
+
+.alto-contraste header, .alto-contraste footer, .alto-contraste .formulario{
+    background-color: var(--alto-constrate-alto);
+    color: var(--alto-constraste-texto);
+}
