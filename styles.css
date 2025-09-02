@@ -180,3 +180,19 @@ display: none;
     background-color: var(--alto-constrate-alto);
     color: var(--alto-constraste-texto);
 }
+
+.alto-contraste .nav-link{
+    color: var(--alto-constrate-link);
+}
+
+.alto-contraste #tropicalia{
+    background: none;
+}
+
+.alto-contraste #galeria{
+    background-color: var(--alto-constrate-alto);
+}
+
+.alto-contraste .fundo-galeria{
+    background: none;
+}
