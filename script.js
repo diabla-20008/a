@@ -23,4 +23,8 @@ const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade');
   opcoesDeAcessibilidade.classList.toggle('apresenta-lista'); 
 })
 
+const alternaContraste= document.getElementById('alterna-contraste');
+
+
+
 })
